@@ -1,4 +1,6 @@
+---
 layout: post
-title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2 TEST-POST WELCOME
+title: "Welcome to mNdrew/PublicNotes"
+date: 2023-05-22 02:04:00 -0000
+categories: Developer-Note
+---
