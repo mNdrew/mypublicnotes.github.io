@@ -1,5 +1,5 @@
 ---
-layout: System Posts
+layout: post
 title: "Welcome to mNdrew/PublicNotes"
 date: 2023-05-22 02:39:00 +0800
 categories: Developer-Note
